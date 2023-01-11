@@ -7,6 +7,7 @@ import mindustry.mod.Mod;
 
 public class ACMModLoader extends Mod {
 	public ACMModLoader() {
+	
 	@Override
 	public void loadContent() {
            ACMBlock.load();
